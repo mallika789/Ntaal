@@ -1,0 +1,79 @@
+.ntaalimage {
+	height: 460px;
+	width: 820px;
+	margin-right: 10px;
+}
+
+.container {
+	margin-top: 10px;
+}
+
+.head1 {
+	margin-top: 90px;
+	margin-left: 110px;
+	font-family: 'Roboto Slab', serif;
+	font-size: 2rem;
+	color: black;
+	text-align: left;;
+
+}
+
+.para1 {
+	font-size: 1.5rem;
+	margin-left: 110px;
+	text-align: left;;
+
+}
+
+.col1{
+	margin-top: 90px;
+	text-align: center;
+}
+
+.col2 {
+	margin-top: 70px;
+}
+
+.footer-text-font {
+	font-family: 'Bahnschrift Regular';
+	font-style: normal;
+	font-weight: normal;
+}
+
+.footer-rows {
+	margin-bottom: 40px;
+	color: black;
+	text-decoration-color: black;
+}
+
+.footer-line1 {
+	font-family: 'Bahnschrift Regular';
+	font-size: 1.3rem;
+	color: black;
+}
+
+.footer-line2 {
+	font-family: Roboto Regular;
+	color: #EC920A;
+}
+
+.footer-col {
+	margin-bottom: 30px;
+}
+.footer-col1 {
+	font-family: 'Bahnschrift Regular';
+	color: #808080;
+	font-size: 20px;
+}
+
+.social-icons {
+	width: 40px;
+	height: 40px;
+	margin-right: 40px;
+}
+
+.icons-row{
+	align-content: center;
+	margin-top: 30px;
+    margin-left: 350px;
+}
